@@ -18,7 +18,6 @@ export default function ActivityDetails({activity, cancelSelectActivity, openFor
         <Card.Description>
         {activity.description}
         </Card.Description>
-        {activity.description}
       </Card.Content>
       <Card.Content extra>
         <Button.Group widths='2'></Button.Group>
